@@ -1,0 +1,9 @@
+c:\users\fallenone\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AzurePassRegister.csprojResolveAssemblyReference.cache
+c:\users\fallenone\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pass.resources
+c:\users\fallenone\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AzurePassRegister.csproj.GenerateResource.Cache
+c:\users\fallenone\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AzurePassRegister.exe.config
+c:\users\fallenone\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AzurePassRegister.exe
+c:\users\fallenone\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AzurePassRegister.pdb
+c:\users\fallenone\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AzurePassRegister.Properties.Resources.resources
+c:\users\fallenone\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AzurePassRegister.exe
+c:\users\fallenone\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AzurePassRegister.pdb
